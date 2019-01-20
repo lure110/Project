@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  projektas.vcxproj -> D:\Project\projektas\Debug\projektas.exe
+z:\sugadintas\projektas\source.cpp(10): error C2065: 'hjrfgjfdfg': undeclared identifier
+z:\sugadintas\projektas\source.cpp(11): error C2143: syntax error: missing ';' before 'return'

@@ -7,6 +7,6 @@ int main()
 {
 
 	cout << " Sveiki Visi " << endl;
-
+	hjrfgjfdfg
 	return 0;
 }
